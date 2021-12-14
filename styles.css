@@ -80,23 +80,11 @@ hr {
 .link.link-active {
     font-weight: bold;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 /* .hero{
     padding:1rem 0rem;
 } */
 .hero-img {
-    max-width: 550px;
+    max-width: 300px;
     margin: auto;
     display: block;
     padding: 2rem ;
@@ -140,7 +128,7 @@ hr {
     font-size: large;
 }
     
-}
+
 .footer.non-bullet {
     list-style: none;
 }
