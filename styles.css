@@ -8,9 +8,15 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-  /* margin: auto 100px; */
+   margin: 0px auto;
+   max-width: 95%;
+    width: 100%;
 
   
+}
+
+.showcase-blog{
+    padding-bottom: 6rem;
 }
 
 /* container */
@@ -21,7 +27,8 @@ body {
 }
 
 .container-center {
-    max-width: 1000px;
+    max-width: 900px;
+    width: auto;
     margin: auto;
 }
 
