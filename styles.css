@@ -32,6 +32,7 @@ body {
     margin: auto;
 }
 
+
 /* links */
 .link {
     text-decoration: none;
@@ -58,6 +59,7 @@ hr {
 .non-bullet {
     list-style: none;
 }
+
 
 .list-item-inline {
     display: inline;
