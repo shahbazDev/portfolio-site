@@ -19,6 +19,17 @@ table, th, td {
     padding: 0.9rem;
     margin-bottom: 3.5rem;
   }
+#commit{
+    border: 1px solid;
+    padding: 0.9rem;
+
+    max-width: 900px;
+    width: auto;
+    margin: auto;
+    margin-bottom: 3.6rem;
+
+  }
+
 
 .showcase-blog{
     padding-bottom: 6rem;
