@@ -29,10 +29,16 @@ table, th, td {
     margin-bottom: 3.6rem;
 
   }
-
+#git{
+    max-width: 900px;
+    margin: auto;
+    margin-bottom: 1rem;
+  
+}
 
 .showcase-blog{
-    padding-bottom: 6rem;
+    padding-bottom: 4.1rem;
+    
 }
 
 /* container */
@@ -146,8 +152,9 @@ hr {
 {background-color: var(--primary-color);
     border-top-right-radius: 1rem;
     color: white;
-    padding:0.5rem ;
+    padding:0.8rem ;
     text-align: center;
+    margin: auto;
 }
 .footer.header{
     font-weight: bold;
